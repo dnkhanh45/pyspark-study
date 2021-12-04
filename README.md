@@ -5,4 +5,4 @@ Data:
 - [airports.dat](https://raw.githubusercontent.com/jpatokal/openflights/master/data/airports.dat)
 - [routes.dat](https://raw.githubusercontent.com/jpatokal/openflights/master/data/routes.dat)
 
-_[Open filghts data](https://raw.githubusercontent.com/jpatokal/openflights/master/data/routes.dat)_
+_[Open filghts data](https://openflights.org/data.html)_
